@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.RuleDefinitionServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-17T03:20:15.895Z" hostname="NUC10A" time="0.019">
+  <properties/>
+  <testcase name="testCreateGoldTierInvestorOffersRule()" classname="service.RuleDefinitionServiceTest" time="0.013"/>
+  <testcase name="testCreateInvestmentRecommendationsRule()" classname="service.RuleDefinitionServiceTest" time="0.001"/>
+  <testcase name="testCreateOrderProcessingRules()" classname="service.RuleDefinitionServiceTest" time="0.001"/>
+  <testcase name="testCreateLowCostInvestmentOptionsRule()" classname="service.RuleDefinitionServiceTest" time="0.001"/>
+  <testcase name="testCreateDiscountRules()" classname="service.RuleDefinitionServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
