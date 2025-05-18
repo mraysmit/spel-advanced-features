@@ -1,0 +1,1 @@
+Follow stringSOLID principles with clear separation of concerns and dependency injection.
